@@ -22,6 +22,8 @@ option(WITH_TOOLS "Build tools directory" OFF)
 option(DEV_BUILD "Development build will include GIT hash and branch to versioning" ON)
 option(STANDALONE "Builds self containing package including Qt libs" OFF)
 
+#set(CMAKE_PREFIX_PATH "D:/Qt/Qt5.12.10/5.12.10/mingw73_64")
+
 if(NOT CMAKE_INSTALL_LIBDIR)
     set(CMAKE_INSTALL_LIBDIR lib)
 endif()
