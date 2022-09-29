@@ -1,0 +1,28 @@
+var dir_fdedb0aba14d44ce9d99bc100e026e6a =
+[
+    [ "datamodeltypes", "dir_767936046b9dab7154e767edcb7a249e.html", "dir_767936046b9dab7154e767edcb7a249e" ],
+    [ "guiinterface", "dir_bb447f364f13c9307fc8b28dfc5bcb76.html", "dir_bb447f364f13c9307fc8b28dfc5bcb76" ],
+    [ "tests", "dir_ee9bfd07b027930ca3d04d12e024b835.html", "dir_ee9bfd07b027930ca3d04d12e024b835" ],
+    [ "bcastmsgs.h", "bcastmsgs_8h.html", null ],
+    [ "candbhandler.cpp", "candbhandler_8cpp.html", null ],
+    [ "candbhandler.h", "candbhandler_8h.html", "candbhandler_8h" ],
+    [ "candbpainter.cpp", "candbpainter_8cpp.html", null ],
+    [ "candbpainter.h", "candbpainter_8h.html", "candbpainter_8h" ],
+    [ "componentinterface.h", "componentinterface_8h.html", "componentinterface_8h" ],
+    [ "componentmodel.h", "componentmodel_8h.html", "componentmodel_8h" ],
+    [ "confighelpers.h", "confighelpers_8h.html", "confighelpers_8h" ],
+    [ "context.h", "context_8h.html", "context_8h" ],
+    [ "enumiterator.h", "enumiterator_8h.html", "enumiterator_8h" ],
+    [ "log.h", "log_8h.html", "log_8h" ],
+    [ "modelvisitor.h", "modelvisitor_8h.html", "modelvisitor_8h" ],
+    [ "nodepainter.h", "nodepainter_8h.html", "nodepainter_8h" ],
+    [ "plugin_type.h", "plugin__type_8h.html", "plugin__type_8h" ],
+    [ "pluginloader.h", "pluginloader_8h.html", "pluginloader_8h" ],
+    [ "propertyfields.h", "propertyfields_8h.html", "propertyfields_8h" ],
+    [ "sortenums.h", "sortenums_8h.html", "sortenums_8h" ],
+    [ "sortmodel.cpp", "sortmodel_8cpp.html", null ],
+    [ "sortmodel.h", "sortmodel_8h.html", "sortmodel_8h" ],
+    [ "typestring.hh", "typestring_8hh.html", "typestring_8hh" ],
+    [ "visitablewith.h", "visitablewith_8h.html", "visitablewith_8h" ],
+    [ "visitor.h", "visitor_8h.html", "visitor_8h" ]
+];
